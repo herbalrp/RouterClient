@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Router IDRoutera = "jarek@domena1" IPKabli ="192.168.0.15" PortKabli="6666" PortManagera ="3000" idManagera ="m1">
+  <Sasiad>
+    <id>W11</id>
+    <port>5015</port>
+  </Sasiad>
+  <Sasiad>
+    <id>W12</id>
+    <port>5019</port>
+  </Sasiad>
+</Router>

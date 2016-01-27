@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Router IDRoutera ="wojtek@domena0" IPKabli ="192.168.0.15" PortKabli ="6666" PortManagera ="3000" idManagera ="m0" idRC="RC-0">
+    <Sasiad>
+      <id>W1@domena0</id>
+      <port>5001</port>
+    </Sasiad>
+  <Sasiad>
+    <id>W3@domena0</id>
+    <port>5000</port>
+  </Sasiad>
+</Router>
+
